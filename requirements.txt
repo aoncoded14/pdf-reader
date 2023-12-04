@@ -7,3 +7,5 @@ tiktoken
 langchain 
 InstructorEmbedding
 sentence_transformers
+streamlit 
+pypdf2
